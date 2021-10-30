@@ -17,4 +17,4 @@ Utilizando Python, o aplicativo busca as informações do banco de dados Firebir
 
 **BytesIO, pyxlsb, xlsxwriter, itertools**: Auxiliam na estruturação de dados e conversão de arquivos.
 
-![alt text](https://github.com/eliodmsr/CartProductivity/blob/main/Print.png?raw=true)
+![alt text](https://github.com/eliodmsr/CartCalc/blob/main/Print.png?raw=true)
